@@ -1,0 +1,542 @@
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:27.414, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:29.192, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:30.980, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:32.711, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:34.473, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:36.254, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:38.006, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:39.795, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:41.576, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:43.404, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:45.136, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:46.965, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:48.738, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:50.491, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:52.302, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:54.131, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:55.866, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:57.675, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:45:59.422, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:01.217, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:03.008, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:04.754, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:06.513, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:08.246, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:10.086, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:11.854, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:13.603, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:15.334, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:17.146, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:18.904, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:21.157, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:22.726, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:23.742, 76 %, 5211 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:24.757, 66 %, 8623 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:25.770, 64 %, 11869 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:26.805, 43 %, 14813 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:27.821, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:28.834, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:29.845, 87 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:30.858, 86 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:31.870, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:32.883, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:33.896, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:34.909, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:35.922, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:36.935, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:37.948, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:38.961, 82 %, 14915 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:39.977, 80 %, 1860 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:41.432, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:43.268, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:45.106, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:46.850, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:48.668, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:50.429, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:52.186, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:53.953, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:55.762, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:57.564, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:46:59.312, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:01.055, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:02.822, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:04.582, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:06.378, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:08.138, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:09.968, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:11.743, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:13.586, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:15.390, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:17.276, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:19.054, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:20.835, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:22.622, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:24.403, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:26.246, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:28.044, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:29.838, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:31.593, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:33.430, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:35.194, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:36.956, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:38.761, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:39.961, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:40.976, 77 %, 5091 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:41.989, 62 %, 8385 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:43.004, 67 %, 11607 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:44.024, 55 %, 14741 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:45.048, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:46.059, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:47.072, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:48.085, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:49.098, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:50.112, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:51.125, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:52.138, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:53.151, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:54.164, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:55.177, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:56.191, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:57.213, 28 %, 9288 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:47:59.003, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:00.851, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:02.658, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:04.442, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:06.248, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:08.033, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:09.822, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:11.692, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:13.446, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:15.238, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:17.035, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:18.805, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:20.026, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:21.040, 72 %, 5053 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:22.054, 67 %, 8395 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:23.071, 56 %, 11599 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:24.088, 62 %, 14729 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:25.106, 86 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:26.119, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:27.131, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:28.145, 87 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:29.157, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:30.170, 87 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:31.182, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:32.196, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:33.220, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:34.234, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:35.247, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:36.261, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:37.275, 35 %, 11145 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:39.103, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:40.341, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:41.355, 61 %, 5007 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:42.369, 63 %, 8341 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:43.384, 59 %, 11655 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:44.398, 69 %, 14679 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:45.418, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:46.431, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:47.444, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:48.457, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:49.471, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:50.484, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:51.497, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:52.510, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:53.523, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:54.537, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:55.560, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:56.573, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:57.587, 52 %, 9288 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:48:59.366, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:00.382, 57 %, 3362 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:01.397, 63 %, 7349 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:02.411, 57 %, 10593 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:03.429, 53 %, 13627 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:04.445, 82 %, 14879 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:05.458, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:06.470, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:07.483, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:08.496, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:09.509, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:10.522, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:11.535, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:12.549, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:13.562, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:14.576, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:15.589, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:16.603, 79 %, 5598 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:17.617, 6 %, 1860 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:18.830, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:19.845, 64 %, 4524 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:20.862, 57 %, 8061 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:21.877, 57 %, 11311 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:22.908, 55 %, 14303 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:23.928, 83 %, 14901 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:24.940, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:25.953, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:26.967, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:27.980, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:28.993, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:30.006, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:31.020, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:32.033, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:33.046, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:34.059, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:35.072, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:36.087, 65 %, 5582 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:37.746, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:38.950, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:39.965, 67 %, 5127 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:40.980, 56 %, 8383 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:41.996, 60 %, 11683 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:43.030, 48 %, 14773 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:44.045, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:45.059, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:46.071, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:47.084, 87 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:48.098, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:49.111, 87 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:50.125, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:51.138, 87 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:52.151, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:53.165, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:54.179, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:55.193, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:56.215, 17 %, 5574 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:57.953, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:58.968, 97 %, 4803 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:49:59.982, 58 %, 8097 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:00.997, 67 %, 11289 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:02.009, 55 %, 14413 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:03.023, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:04.036, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:05.049, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:06.061, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:07.075, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:08.087, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:09.100, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:10.113, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:11.126, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:12.139, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:13.152, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:14.165, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:15.179, 28 %, 11145 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:16.753, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:17.778, 32 %, 3037 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:18.798, 61 %, 7687 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:19.812, 59 %, 10889 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:20.827, 50 %, 14019 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:21.840, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:22.851, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:23.863, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:24.876, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:25.887, 86 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:26.900, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:27.914, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:28.926, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:29.940, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:30.953, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:31.966, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:32.979, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:33.993, 70 %, 7439 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:35.681, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:36.813, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:37.827, 66 %, 5235 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:38.842, 69 %, 8581 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:39.856, 52 %, 11809 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:40.868, 55 %, 14757 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:41.882, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:42.894, 87 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:43.906, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:44.918, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:45.930, 90 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:46.942, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:47.955, 87 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:48.968, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:49.982, 89 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:50.995, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:52.008, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:53.021, 88 %, 14923 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:54.041, 37 %, 1860 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:55.263, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:57.123, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:50:58.900, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:51:00.756, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:51:02.539, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:51:04.342, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:51:06.099, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:51:07.946, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:51:09.742, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:51:11.518, 0 %, 0 MiB
+timestamp, utilization.gpu [%], memory.used [MiB]
+2022/01/04 14:51:13.315, 0 %, 0 MiB
